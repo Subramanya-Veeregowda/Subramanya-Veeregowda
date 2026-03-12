@@ -1,19 +1,11 @@
 ### 👋 Hello, I'm Subramanya Veeregowda
 ----
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3B82F6&size=30&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Java+Spring+Developer;React+Developer;Building+Scalable+Applications)
 ----
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/subbuveere)
-
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Subramanya-Veeregowda&color=blue)
+[![GitHub followers](https://img.shields.io/github/followers/subramanya-veeregowda?style=for-the-badge&logo=github)](https://github.com/subramanya-veeregowda)
 ![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3B82F6&size=30&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Java+Spring+Developer;React+Developer;Building+Scalable+Applications)
-
 ---
 💻 **Full Stack Developer | Java Backend Enthusiast | Problem Solver**
 
