@@ -1,16 +1,10 @@
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Subramanya-Veeregowda&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subramanya-Veeregowda&layout=compact&theme=tokyonight)
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/subbuveere)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Subramanya-Veeregowda&color=blue)
 
-# 👋 Hi, I'm Subbu
-### Full Stack Developer | Java | React | Spring Boot
 
 # 👋 Hello, I'm Subramanya Veeregowda
 ---
@@ -69,7 +63,7 @@ I enjoy building scalable web applications, learning new technologies, and solvi
 ![Scrum](https://img.shields.io/badge/Scrum-lightblue)
 ![CI/CD](https://img.shields.io/badge/CI/CD-green)
 
-
+---
 ## 📂 Projects
 
 ### 🌦️ Weather App
@@ -90,16 +84,6 @@ Constantly experimenting with new ideas and building small creative projects to 
 
 ---
 
-## 🛠️ Tools & Technologies
-
-* Git & GitHub
-* Docker
-* CI/CD Concepts
-* Agile & Scrum Methodologies
-* Cloud Deployment (Vercel / Netlify)
-
----
-
 ## 📊 GitHub Stats
 
 ⚡ Building projects, solving problems, and learning something new every day.
@@ -117,8 +101,11 @@ Constantly experimenting with new ideas and building small creative projects to 
 ⭐ ## *Always learning. Always building.*
 ---
   "Programs must be written for people to read, and only incidentally for machines to execute."  
-                                                                          — Harold Abelson
+     >                                                                     — Harold Abelson
 ---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Subramanya-Veeregowda&color=blue)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subramanyav2002)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/subbu.7_?igsh=MWRicmJjNGo0NW5ydg==)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/qr/IH3W2XLDW7FHE1)
