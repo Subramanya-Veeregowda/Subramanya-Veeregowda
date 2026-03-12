@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Subramanya Veeregowda
+### 👋 Hello, I'm Subramanya Veeregowda
 ----
 ![Profile Views](https://komarev.com/ghpvc/?username=Subramanya-Veeregowda&color=blue)
 
