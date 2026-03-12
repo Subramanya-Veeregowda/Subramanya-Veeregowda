@@ -103,8 +103,10 @@ Constantly experimenting with new ideas and building small creative projects to 
 
 ⭐ ## *Always learning. Always building.*
 ---
-  "Programs must be written for people to read, and only incidentally for machines to execute."  
-                                                                          — Harold Abelson
+
+  "Programs must be written for people to read, and only incidentally for machines to execute." 
+  
+                                                                         ## — Harold Abelson
 ---
 
 <p >
@@ -114,6 +116,7 @@ Constantly experimenting with new ideas and building small creative projects to 
 </a>
 </p>
 
+---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subramanyav2002)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/subbu.7_?igsh=MWRicmJjNGo0NW5ydg==)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/qr/IH3W2XLDW7FHE1)
