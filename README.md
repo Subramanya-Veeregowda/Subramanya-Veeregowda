@@ -107,7 +107,12 @@ Constantly experimenting with new ideas and building small creative projects to 
                                                                           — Harold Abelson
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Subramanya-Veeregowda&color=blue)
+<p >
+<img src="https://komarev.com/ghpvc/?username=subramanya-veeregowda&label=Profile%20views&style=flat" />
+<a href="https://github.com/subramanya-veeregowda?tab=followers">
+<img src="https://img.shields.io/github/followers/subramanya-veeregowda?label=Follow&style=social" />
+</a>
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subramanyav2002)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/subbu.7_?igsh=MWRicmJjNGo0NW5ydg==)
