@@ -1,9 +1,10 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Subramanya-Veeregowda&color=blue)
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/subbuveere)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Subramanya-Veeregowda&color=blue)
+
 
 
 # 👋 Hello, I'm Subramanya Veeregowda
@@ -101,7 +102,7 @@ Constantly experimenting with new ideas and building small creative projects to 
 ⭐ ## *Always learning. Always building.*
 ---
   "Programs must be written for people to read, and only incidentally for machines to execute."  
-     >                                                                     — Harold Abelson
+                                                                          — Harold Abelson
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Subramanya-Veeregowda&color=blue)
