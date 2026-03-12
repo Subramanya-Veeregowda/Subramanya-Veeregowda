@@ -2,35 +2,12 @@
 ----
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3B82F6&size=30&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Java+Spring+Developer;React+Developer;Building+Scalable+Applications)
 ----
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Subramanya-Veeregowda&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-<p align="center">
-<a href="https://github.com/subramanya-veeregowda">
-<img src="https://img.shields.io/github/stars/Subramanya-Veeregowda?style=social" />
-</a>
-</p>
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=subramanya-veeregowda&label=Profile%20views&style=flat" />
-
 <a href="https://github.com/subramanya-veeregowda?tab=followers">
 <img src="https://img.shields.io/github/followers/subramanya-veeregowda?label=Follow&style=social" />
 </a>
-
-</p>
-
-
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=subramanya-veeregowda&label=Profile%20views&style=flat" />
-
-<a href="https://github.com/subramanya-veeregowda?tab=followers">
-<img src="https://img.shields.io/github/followers/subramanya-veeregowda?label=Follow&style=social" />
-</a>
-
 </p>
 ---
 💻 **Full Stack Developer | Java Backend Enthusiast | Problem Solver**
