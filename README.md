@@ -1,3 +1,5 @@
+# 👋 Hello, I'm Subramanya Veeregowda
+----
 ![Profile Views](https://komarev.com/ghpvc/?username=Subramanya-Veeregowda&color=blue)
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
@@ -7,7 +9,7 @@
 
 
 
-# 👋 Hello, I'm Subramanya Veeregowda
+
 ---
 💻 **Full Stack Developer | Java Backend Enthusiast | Problem Solver**
 
