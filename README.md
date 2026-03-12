@@ -1,7 +1,7 @@
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Subramanya-Veeregowda&show_icons=true&theme=tokyonight)
 
 # 👋 Hello, I'm Subramanya Veeregowda
 
