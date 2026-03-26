@@ -16,7 +16,25 @@
 I enjoy building scalable web applications, learning new technologies, and solving complex problems through clean and efficient code. My focus is on creating reliable backend systems while crafting modern and responsive frontends.
 
 ---
+## 🚀 Open Source Contributions
 
+### Apache Beam
+- [PR #37958](https://github.com/apache/beam/pull/37958) – Python nested fields example (OPEN)
+- [PR #37946](https://github.com/apache/beam/pull/37946) – Docstring improvement (REVIEW)
+- [PR #37911](https://github.com/apache/beam/pull/37911) – README badges (MERGED)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Subramanya-Veeregowda&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subramanya-Veeregowda&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Subramanya-Veeregowda&theme=tokyonight" />
+</p>
+
+---
 ## 🚀 Tech Stack
 
 ### 🌐 Frontend
