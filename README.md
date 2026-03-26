@@ -19,10 +19,17 @@ I enjoy building scalable web applications, learning new technologies, and solvi
 ## 🚀 Open Source Contributions
 
 ### Apache Beam
-- [PR #37958](https://github.com/apache/beam/pull/37958) – Python nested fields example (OPEN)
-- [PR #37946](https://github.com/apache/beam/pull/37946) – Docstring improvement (REVIEW)
-- [PR #37911](https://github.com/apache/beam/pull/37911) – README badges (MERGED)
-- [PR #37988](https://github.com/apache/beam/pull/37908) - Improved Minimal_wordCount Example (Merged)
+- [PR #37958]([https://github.com/apache/beam/pull/37958]) 
+  ![Open](https://img.shields.io/badge/status-open-yellow)
+
+- [PR #37946](https://github.com/apache/beam/pull/37946) 
+  ![Review](https://img.shields.io/badge/status-review-blue)
+
+- [PR #37911](https://github.com/apache/beam/pull/37911) 
+  ![Merged](https://img.shields.io/badge/status-merged-brightgreen)
+
+- [PR #37988](https://github.com/apache/beam/pull/37988) 
+  ![Merged](https://img.shields.io/badge/status-merged-brightgreen)
 ---
 ## 🚀 Tech Stack
 
