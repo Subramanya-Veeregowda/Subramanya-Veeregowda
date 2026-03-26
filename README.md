@@ -18,18 +18,18 @@ I enjoy building scalable web applications, learning new technologies, and solvi
 ---
 ## 🚀 Open Source Contributions
 
-### Google Summer of Code
+### ☀️ Google Summer of Code
 
-### Apache Beam
+### 😁 Apache Beam
 
-- [PR #37908](https://github.com/apache/beam/pull/37908) ![status](https://img.shields.io/badge/status-merged-brightgreen)
-- [PR #37910](https://github.com/apache/beam/pull/37910) ![status](https://img.shields.io/badge/status-merged-brightgreen)
-- [PR #37911](https://github.com/apache/beam/pull/37911) ![status](https://img.shields.io/badge/status-merged-brightgreen)
-- [PR #37946](https://github.com/apache/beam/pull/37946) ![status](https://img.shields.io/badge/status-review-blue)
-- [PR #37958](https://github.com/apache/beam/pull/37958) ![status](https://img.shields.io/badge/status-open-yellow)
-- [PR #37959](https://github.com/apache/beam/pull/37959) ![status](https://img.shields.io/badge/status-open-yellow)
-- [PR #37960](https://github.com/apache/beam/pull/37960) ![status](https://img.shields.io/badge/status-review-violet)
-- [PR #37961](https://github.com/apache/beam/pull/37961) ![status](https://img.shields.io/badge/status-merged-brightgreen)
+- 🔗[PR #37908](https://github.com/apache/beam/pull/37908) ![status](https://img.shields.io/badge/status-merged-brightgreen)
+- 🔗[PR #37910](https://github.com/apache/beam/pull/37910) ![status](https://img.shields.io/badge/status-merged-brightgreen)
+- 🔗[PR #37911](https://github.com/apache/beam/pull/37911) ![status](https://img.shields.io/badge/status-merged-brightgreen)
+- 🔗[PR #37946](https://github.com/apache/beam/pull/37946) ![status](https://img.shields.io/badge/status-review-blue)
+- 🔗[PR #37958](https://github.com/apache/beam/pull/37958) ![status](https://img.shields.io/badge/status-open-yellow)
+- 🔗[PR #37959](https://github.com/apache/beam/pull/37959) ![status](https://img.shields.io/badge/status-open-yellow)
+- 🔗[PR #37960](https://github.com/apache/beam/pull/37960) ![status](https://img.shields.io/badge/status-review-violet)
+- 🔗[PR #37961](https://github.com/apache/beam/pull/37961) ![status](https://img.shields.io/badge/status-merged-brightgreen)
 
 ---
 ## 🚀 Tech Stack
