@@ -24,7 +24,7 @@ I enjoy building scalable web applications, learning new technologies, and solvi
 - [PR #37911](https://github.com/apache/beam/pull/37911) ![status](https://img.shields.io/badge/status-merged-brightgreen)
 - [PR #37908](https://github.com/apache/beam/pull/37908) ![status](https://img.shields.io/badge/status-merged-brightgreen)
 - [PR #37959](https://github.com/apache/beam/pull/37959) ![status](https://img.shields.io/badge/status-open-yellow)
-- [PR #37960](https://github.com/apache/beam/pull/37960) ![status](https://img.shields.io/badge/status-review-blue)
+- [PR #37960](https://github.com/apache/beam/pull/37960) ![status](https://img.shields.io/badge/status-review-violet)
 - [PR #37961](https://github.com/apache/beam/pull/37961) ![status](https://img.shields.io/badge/status-merged-brightgreen)
 - [PR #37910](https://github.com/apache/beam/pull/37910) ![status](https://img.shields.io/badge/status-merged-brightgreen)
 ---
