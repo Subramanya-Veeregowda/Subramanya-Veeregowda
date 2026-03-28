@@ -21,6 +21,7 @@ I enjoy building scalable web applications, learning new technologies, and solvi
 ### ☀️ Google Summer of Code
 
 ### 😁 Apache Beam
+[![PreCommit Java IOs Direct](https://github.com/apache/beam/pull/37963/badge.svg)](https://github.com/apache/beam/pull/37963)
 
 - 🔗[PR #37908](https://github.com/apache/beam/pull/37908) ![status](https://img.shields.io/badge/status-review-yellow)
 - 🔗[PR #37909](https://github.com/apache/beam/pull/37909) ![status](https://img.shields.io/badge/status-merged-violet)
