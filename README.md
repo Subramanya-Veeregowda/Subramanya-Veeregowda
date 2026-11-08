@@ -11,16 +11,16 @@
 </p>
 
 ---
-💻 **Full Stack Developer | Java Backend Enthusiast | Problem Solver**
+ **Full Stack Developer | Java Backend Enthusiast | Problem Solver**
 
 I enjoy building scalable web applications, learning new technologies, and solving complex problems through clean and efficient code. My focus is on creating reliable backend systems while crafting modern and responsive frontends.
 
 ---
-## 🚀 Open Source Contributions
+##  Open Source Contributions
 
-### ☀️ Google Summer of Code
+###  Google Summer of Code
 
-### 😁 Apache Beam
+### Apache Beam
 [![PreCommit Java IOs Direct](https://github.com/apache/beam/actions/workflows/beam_PreCommit_Java_IOs_Direct.yml/badge.svg)](https://github.com/apache/beam/actions/workflows/beam_PreCommit_Java_IOs_Direct.yml)
 - 🔗[PR #37908](https://github.com/apache/beam/pull/37908) ![status](https://img.shields.io/badge/status-review-yellow)
 - 🔗[PR #37909](https://github.com/apache/beam/pull/37909) ![status](https://img.shields.io/badge/status-merged-violet)
@@ -33,9 +33,9 @@ I enjoy building scalable web applications, learning new technologies, and solvi
 - 🔗[PR #37961](https://github.com/apache/beam/pull/37961) ![status](https://img.shields.io/badge/status-review-brightgreen)
 
 ---
-## 🚀 Tech Stack
+##  Tech Stack
 
-### 🌐 Frontend
+###  Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
@@ -45,24 +45,24 @@ I enjoy building scalable web applications, learning new technologies, and solvi
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple?logo=bootstrap&logoColor=white)
 
-### ⚙️ Backend
+###  Backend
 
 ![Java](https://img.shields.io/badge/Java-red?logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-green?logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-darkgreen?logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-brown?logo=hibernate&logoColor=white)
 
-### 🗄️ Databases
+###  Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-red?logo=oracle&logoColor=white)
 
-### 🧠 Problem Solving
+###  Problem Solving
 
 ![DSA](https://img.shields.io/badge/DataStructures&Algorithms-orange)
 
-### 🚀 Dev Tools
+###  Dev Tools
 
 ![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
@@ -71,46 +71,46 @@ I enjoy building scalable web applications, learning new technologies, and solvi
 ![Jenkins](https://img.shields.io/badge/Jenkins-red?logo=jenkins&logoColor=white)
 [![Postman](https://img.shields.io/badge/Postman-orange?logo=postman&logoColor=white)](https://www.postman.com/)
 
-### ☁️ Deployment
+###  Deployment
 
 ![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-green?logo=netlify&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws&logoColor=white)
 
-### ⚡ Methodologies
+###  Methodologies
 
 ![Agile](https://img.shields.io/badge/Agile-blue)
 ![Scrum](https://img.shields.io/badge/Scrum-lightblue)
 ![CI/CD](https://img.shields.io/badge/CI/CD-green)
 
 ---
-## 📂 Projects
+##  Projects
 
-### 🌦️ Weather App
+###  Weather App
 
 A responsive weather application that fetches real-time weather data using APIs and displays current conditions and forecasts.
 
-### ✅ Task Management System
+###  Task Management System
 
 A productivity web application that allows users to create, update, and manage tasks efficiently.
 
-### 🔗 URL Shortener
+###  URL Shortener
 
 A backend-powered URL shortening service that converts long URLs into short, shareable links.
 
-### 💡 More Projects
+###  More Projects
 
 Constantly experimenting with new ideas and building small creative projects to improve my development skills.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
-⚡ Building projects, solving problems, and learning something new every day.
+ Building projects, solving problems, and learning something new every day.
 
 ---
 
-## 🌍 Connect With Me
+##  Connect With Me
 
 * GitHub
 * LinkedIn
