@@ -1,10 +1,10 @@
 ## 👋 Hello, I'm Subramanya Veeregowda
 
-**Software Developer | Java & Spring Boot | Data Engineering Enthusiast**
+**Software Developer | Java & Spring Boot | Full Stack Development | Data Engineering**
 
 I am a software developer interested in building scalable applications, backend systems, and data-driven solutions. I enjoy solving problems, exploring new technologies, and contributing to open-source projects.
 
-My experience spans application support, backend development, full-stack applications, and data engineering technologies.
+My experience spans application support, backend development, full-stack applications, and data engineering.
 
 ---
 
@@ -48,21 +48,21 @@ My experience spans application support, backend development, full-stack applica
 
 **Selected Contributions:**
 
-- [Apache Beam PR #37908](https://github.com/apache/beam/pull/37908)
-- [Apache Beam PR #37909](https://github.com/apache/beam/pull/37909)
-- [Apache Beam PR #37910](https://github.com/apache/beam/pull/37910)
-- [Apache Beam PR #37911](https://github.com/apache/beam/pull/37911)
-- [Apache Beam PR #37946](https://github.com/apache/beam/pull/37946)
-- [Apache Beam PR #37958](https://github.com/apache/beam/pull/37958)
-- [Apache Beam PR #37959](https://github.com/apache/beam/pull/37959)
-- [Apache Beam PR #37960](https://github.com/apache/beam/pull/37960)
-- [Apache Beam PR #37961](https://github.com/apache/beam/pull/37961)
+- [PR #37908](https://github.com/apache/beam/pull/37908)
+- [PR #37909](https://github.com/apache/beam/pull/37909)
+- [PR #37910](https://github.com/apache/beam/pull/37910)
+- [PR #37911](https://github.com/apache/beam/pull/37911)
+- [PR #37946](https://github.com/apache/beam/pull/37946)
+- [PR #37958](https://github.com/apache/beam/pull/37958)
+- [PR #37959](https://github.com/apache/beam/pull/37959)
+- [PR #37960](https://github.com/apache/beam/pull/37960)
+- [PR #37961](https://github.com/apache/beam/pull/37961)
 
 ---
 
 ## **Projects**
 
-**LinkForge – URL Management Platform**
+### **1. LinkForge – URL Management Platform**
 
 *Java, Spring Boot, Spring Security, React.js, MySQL, Kafka, Redis*
 
@@ -71,7 +71,7 @@ My experience spans application support, backend development, full-stack applica
 - Built REST APIs for URL shortening, analytics, redirection, and link management.
 - Designed a responsive frontend using React and Tailwind CSS.
 
-**Fraud Detection Pipeline**
+### **2. Fraud Detection Pipeline**
 
 *Python, Apache Kafka, Apache Spark, Docker*
 
@@ -79,6 +79,41 @@ My experience spans application support, backend development, full-stack applica
 - Built a Kafka producer to generate and stream transaction data.
 - Configured a distributed Spark cluster using Docker.
 - Implemented micro-batch processing, checkpointing, and fault-tolerance mechanisms.
+
+### **3. GST Calculator Pro & Invoice Generator**
+
+*React.js, Vite, JavaScript, Tailwind CSS, jsPDF*
+
+- Developing a GST calculation and invoice generation application.
+- Supports CGST, SGST, and IGST calculations.
+- Includes inclusive and exclusive GST calculations.
+- Supports multi-item invoices, custom tax rates, and PDF generation.
+- Designed for responsive usage with offline capabilities.
+
+### **4. Task Management System**
+
+*React.js, Tailwind CSS, Spring Boot, Java*
+
+- Building a productivity application for managing tasks and daily activities.
+- Developing backend APIs for task creation, updates, and management.
+- Integrating a React frontend with a Spring Boot backend.
+
+### **5. Weather Application**
+
+*React.js, JavaScript, Bootstrap, Weather API*
+
+- Developed a responsive weather application.
+- Integrated weather APIs to retrieve real-time weather information.
+- Designed an interface to display current weather conditions and forecasts.
+
+### **6. TrueCivilian AI – Civic Engagement Platform**
+
+*React.js, TypeScript, Spring Boot, Java, Supabase, PostgreSQL, Gemini AI*
+
+- Designing an AI-powered civic engagement platform.
+- Exploring AI-based report categorization and duplicate detection.
+- Incorporating severity prediction and department assignment workflows.
+- Designing dashboards to track civic complaints and resolution progress.
 
 ---
 
@@ -92,8 +127,8 @@ Dr. Ambedkar Institute of Technology, Bengaluru
 
 ## **Certifications & Learning**
 
-- Full Stack Web Development – Coding Ninjas (Ongoing)
-- Data Engineering – Data Vidya (Ongoing)
+- Full Stack Web Development – Coding Ninjas
+- Data Engineering – Data Vidya
 - Python Essentials 1 & 2 – Cisco Networking Academy
 - AI Tools Workshop – BE10X
 
@@ -110,7 +145,6 @@ Dr. Ambedkar Institute of Technology, Bengaluru
 ---
 
 **Always learning, building, and contributing.**
-
 
 
 
