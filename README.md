@@ -1,146 +1,116 @@
 ### 👋 Hello, I'm Subramanya Veeregowda
-----
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3B82F6&size=30&center=false&vCenter=true&width=800&lines=Full+Stack+Developer;Java+Spring+Developer;React+Developer;Building+Scalable+Applications;DSA+CODER)
-----
+# Subramanya Veeregowda
 
-<p >
-<img src="https://komarev.com/ghpvc/?username=subramanya-veeregowda&label=Profile%20views&style=flat" />
-<a href="https://github.com/subramanya-veeregowda?tab=followers">
-<img src="https://img.shields.io/github/followers/subramanya-veeregowda?label=Follow&style=social" />
-</a>
-</p>
+**Software Developer | Java & Spring Boot | Data Engineering Enthusiast**
 
----
- **Full Stack Developer | Java Backend Enthusiast | Problem Solver**
+I am a software developer interested in building scalable applications, backend systems, and data-driven solutions. I enjoy solving problems, exploring new technologies, and contributing to open-source projects.
 
-I enjoy building scalable web applications, learning new technologies, and solving complex problems through clean and efficient code. My focus is on creating reliable backend systems while crafting modern and responsive frontends.
-
----
-##  Open Source Contributions
-
-###  Google Summer of Code
-
-### Apache Beam
-[![PreCommit Java IOs Direct](https://github.com/apache/beam/actions/workflows/beam_PreCommit_Java_IOs_Direct.yml/badge.svg)](https://github.com/apache/beam/actions/workflows/beam_PreCommit_Java_IOs_Direct.yml)
-- 🔗[PR #37908](https://github.com/apache/beam/pull/37908) ![status](https://img.shields.io/badge/status-review-yellow)
-- 🔗[PR #37909](https://github.com/apache/beam/pull/37909) ![status](https://img.shields.io/badge/status-merged-violet)
-- 🔗[PR #37910](https://github.com/apache/beam/pull/37910) ![status](https://img.shields.io/badge/status-review-yellow)
-- 🔗[PR #37911](https://github.com/apache/beam/pull/37911) ![status](https://img.shields.io/badge/status-review-yellow)
-- 🔗[PR #37946](https://github.com/apache/beam/pull/37946) ![status](https://img.shields.io/badge/status-merged-violet)
-- 🔗[PR #37958](https://github.com/apache/beam/pull/37958) ![status](https://img.shields.io/badge/status-review-yellow)
-- 🔗[PR #37959](https://github.com/apache/beam/pull/37959) ![status](https://img.shields.io/badge/status-review-yellow)
-- 🔗[PR #37960](https://github.com/apache/beam/pull/37960) ![status](https://img.shields.io/badge/status-review-yellow)
-- 🔗[PR #37961](https://github.com/apache/beam/pull/37961) ![status](https://img.shields.io/badge/status-review-brightgreen)
-
----
-##  Tech Stack
-
-###  Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-18-blue?logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-purple?logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple?logo=bootstrap&logoColor=white)
-
-###  Backend
-
-![Java](https://img.shields.io/badge/Java-red?logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-green?logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-darkgreen?logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-brown?logo=hibernate&logoColor=white)
-
-###  Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-red?logo=oracle&logoColor=white)
-
-###  Problem Solving
-
-![DSA](https://img.shields.io/badge/DataStructures&Algorithms-orange)
-
-###  Dev Tools
-
-![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-red?logo=jenkins&logoColor=white)
-[![Postman](https://img.shields.io/badge/Postman-orange?logo=postman&logoColor=white)](https://www.postman.com/)
-
-###  Deployment
-
-![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-green?logo=netlify&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws&logoColor=white)
-
-###  Methodologies
-
-![Agile](https://img.shields.io/badge/Agile-blue)
-![Scrum](https://img.shields.io/badge/Scrum-lightblue)
-![CI/CD](https://img.shields.io/badge/CI/CD-green)
-
----
-##  Projects
-
-###  Weather App
-
-A responsive weather application that fetches real-time weather data using APIs and displays current conditions and forecasts.
-
-###  Task Management System
-
-A productivity web application that allows users to create, update, and manage tasks efficiently.
-
-###  URL Shortener
-
-A backend-powered URL shortening service that converts long URLs into short, shareable links.
-
-###  More Projects
-
-Constantly experimenting with new ideas and building small creative projects to improve my development skills.
+My experience spans application support, backend development, full-stack applications, and data engineering technologies.
 
 ---
 
-##  GitHub Stats
+## **Technical Skills**
 
- Building projects, solving problems, and learning something new every day.
+**Programming Languages:** Java, Python, JavaScript, SQL, C++
+
+**Backend Development:** Spring Boot, Spring Security, Hibernate, REST APIs
+
+**Frontend Development:** React.js, HTML5, CSS3, Tailwind CSS, Bootstrap
+
+**Databases:** MySQL, PostgreSQL, Oracle SQL, MongoDB, Cassandra
+
+**Data Engineering:** Apache Spark, Apache Kafka, Apache Airflow, DBT, Delta Lake, ETL/ELT
+
+**Tools & Platforms:** Git, GitHub, Docker, Kubernetes, Jenkins, AWS, Databricks, Postman
+
+---
+
+## **Professional Experience**
+
+**CGI | Apprentice – Application Support Engineer**  
+*July 2026 – Present*
+
+- Providing Level 2 production support for enterprise applications in Linux environments.
+- Troubleshooting application, server, filesystem, and database-related incidents.
+- Working with Oracle databases and performing SQL-based investigations.
+- Testing and validating application releases before production deployment.
+- Performing Linux system operations, log analysis, and application monitoring.
+- Supporting server scaling, capacity management, and application availability.
 
 ---
 
-##  Connect With Me
+## **Open Source Contributions**
 
-* GitHub
-* LinkedIn
-* Portfolio (Coming Soon)
+**Google Summer of Code – Apache Beam | 2026 – Present**
+
+- Contributed to Apache Beam across Java and Python SDK modules.
+- Delivered 6+ merged pull requests.
+- Worked on documentation, SDK examples, code readability, and coder inference.
+
+**Selected Contributions:**
+
+- [Apache Beam PR #37908](https://github.com/apache/beam/pull/37908)
+- [Apache Beam PR #37909](https://github.com/apache/beam/pull/37909)
+- [Apache Beam PR #37910](https://github.com/apache/beam/pull/37910)
+- [Apache Beam PR #37911](https://github.com/apache/beam/pull/37911)
+- [Apache Beam PR #37946](https://github.com/apache/beam/pull/37946)
+- [Apache Beam PR #37958](https://github.com/apache/beam/pull/37958)
+- [Apache Beam PR #37959](https://github.com/apache/beam/pull/37959)
+- [Apache Beam PR #37960](https://github.com/apache/beam/pull/37960)
+- [Apache Beam PR #37961](https://github.com/apache/beam/pull/37961)
+
+---
+
+## **Projects**
+
+**LinkForge – URL Management Platform**
+
+*Java, Spring Boot, Spring Security, React.js, MySQL, Kafka, Redis*
+
+- Developed a full-stack URL management platform with custom aliases, QR codes, and self-destructing links.
+- Implemented JWT authentication using HTTP-only cookies and role-based authorization.
+- Built REST APIs for URL shortening, analytics, redirection, and link management.
+- Designed a responsive frontend using React and Tailwind CSS.
+
+**Fraud Detection Pipeline**
+
+*Python, Apache Kafka, Apache Spark, Docker*
+
+- Designed a real-time data processing pipeline using Kafka and Spark Structured Streaming.
+- Built a Kafka producer to generate and stream transaction data.
+- Configured a distributed Spark cluster using Docker.
+- Implemented micro-batch processing, checkpointing, and fault-tolerance mechanisms.
 
 ---
 
-⭐ ## *Always learning. Always building.*
----
+## **Education**
 
-  "Programs must be written for people to read, and only incidentally for machines to execute." 
-  
-                                                                         ## — Harold Abelson
----
-
-<p >
-<img src="https://komarev.com/ghpvc/?username=subramanya-veeregowda&label=Profile%20views&style=flat" />
-<a href="https://github.com/subramanya-veeregowda?tab=followers">
-<img src="https://img.shields.io/github/followers/subramanya-veeregowda?label=Follow&style=social" />
-</a>
-</p>
+**Bachelor of Engineering – Electrical and Electronics Engineering**  
+Dr. Ambedkar Institute of Technology, Bengaluru  
+2020 – 2025 | CGPA: 7.0
 
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subramanyav2002)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/subbu.7_?igsh=MWRicmJjNGo0NW5ydg==)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/qr/IH3W2XLDW7FHE1)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subramanyav2002@gmail.com)
-[![X (Twitter)](https://img.shields.io/badge/X-black?logo=x&logoColor=white)](https://x.com/SubramanyaV_)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/subbuveere)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://hackerrank.com/subbuveere)
+
+## **Certifications & Learning**
+
+- Full Stack Web Development – Coding Ninjas (Ongoing)
+- Data Engineering – Data Vidya (Ongoing)
+- Python Essentials 1 & 2 – Cisco Networking Academy
+- AI Tools Workshop – BE10X
+
+---
+
+## **Connect With Me**
+
+- **LinkedIn:** [linkedin.com/in/subramanyav2002](https://www.linkedin.com/in/subramanyav2002)
+- **GitHub:** [github.com/subramanya-veeregowda](https://github.com/subramanya-veeregowda)
+- **LeetCode:** [leetcode.com/subbuveere](https://leetcode.com/subbuveere)
+- **HackerRank:** [hackerrank.com/subbuveere](https://hackerrank.com/subbuveere)
+- **Email:** [subramanyav2002@gmail.com](mailto:subramanyav2002@gmail.com)
+
+---
+
+**Always learning, building, and contributing.**
 
 
 
