@@ -48,17 +48,13 @@ My experience spans application support, backend development, full-stack applica
 
 **Selected Contributions:**
 
-- [PR #38242]([https://github.com/apache/beam/pull/37908](https://github.com/apache/beam/pull/38242))
-
-- [PR #37908](https://github.com/apache/beam/pull/37908)
-- [PR #37909](https://github.com/apache/beam/pull/37909)
-- [PR #37910](https://github.com/apache/beam/pull/37910)
-- [PR #37911](https://github.com/apache/beam/pull/37911)
-- [PR #37946](https://github.com/apache/beam/pull/37946)
-- [PR #37958](https://github.com/apache/beam/pull/37958)
-- [PR #37959](https://github.com/apache/beam/pull/37959)
-- [PR #37960](https://github.com/apache/beam/pull/37960)
-- [PR #37961](https://github.com/apache/beam/pull/37961)
+- [PR #38242](https://github.com/apache/beam/pull/38242)
+- [PR #38235](https://github.com/apache/beam/pull/38235).
+- [PR #38029](https://github.com/apache/beam/pull/38029).
+- [PR #37946](https://github.com/apache/beam/pull/37946).
+- [PR #37910](https://github.com/apache/beam/pull/37910).
+- [PR #37909](https://github.com/apache/beam/pull/37909).
+- [PR #37908](https://github.com/apache/beam/pull/37908).
 
 ---
 
