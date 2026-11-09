@@ -48,6 +48,8 @@ My experience spans application support, backend development, full-stack applica
 
 **Selected Contributions:**
 
+- [PR #38242]([https://github.com/apache/beam/pull/37908](https://github.com/apache/beam/pull/38242))
+
 - [PR #37908](https://github.com/apache/beam/pull/37908)
 - [PR #37909](https://github.com/apache/beam/pull/37909)
 - [PR #37910](https://github.com/apache/beam/pull/37910)
