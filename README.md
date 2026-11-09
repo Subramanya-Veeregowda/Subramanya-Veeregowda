@@ -137,8 +137,8 @@ Dr. Ambedkar Institute of Technology, Bengaluru
 ## **Connect With Me**
 
 - **LinkedIn:** [linkedin.com/in/subramanyav2002](https://www.linkedin.com/in/subramanyav2002)
-- **GitHub:** [github.com/subramanya-veeregowda](https://github.com/subramanya-veeregowda)
-- **LeetCode:** [leetcode.com/subbuveere](https://leetcode.com/subbuveere)
+- **GitHub:** [github.com/subramanya-veeregowda](https://github.com/Subramanya-Veeregowda)
+- **LeetCode:** [leetcode.com/subbuveere](https://leetcode.com/u/subramanya-veeregowda)
 - **HackerRank:** [hackerrank.com/subbuveere](https://hackerrank.com/subbuveere)
 - **Email:** [subramanyav2002@gmail.com](mailto:subramanyav2002@gmail.com)
 
