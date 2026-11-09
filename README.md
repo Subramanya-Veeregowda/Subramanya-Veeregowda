@@ -46,7 +46,7 @@ My experience spans application support, backend development, full-stack applica
 - Delivered 6+ merged pull requests.
 - Worked on documentation, SDK examples, code readability, and coder inference.
 
-**Selected Contributions:**
+**Merged Contributions:**
 
 - [PR #38242](https://github.com/apache/beam/pull/38242)
 - [PR #38235](https://github.com/apache/beam/pull/38235).
