@@ -7,25 +7,19 @@ I am a software developer interested in building scalable applications, backend 
 My experience spans application support, backend development, full-stack applications, and data engineering.
 
 ---
----
 
 ## **GitHub Statistics**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subramanya-Veeregowda&show_icons=true&hide_border=true&theme=default&include_all_commits=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Subramanya-Veeregowda&show_icons=true&hide_border=true&theme=default&include_all_commits=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Subramanya-Veeregowda&theme=default&hide_border=true)](https://git.io/streak-stats)
-
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Subramanya-Veeregowda&theme=github-compact&hide_border=true)
 
 ---
 
 ## **LeetCode Statistics**
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/subramanya-veeregowda?theme=light&font=Inter)](https://leetcode.com/u/subramanya-veeregowda/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/subramanya-veeregowda?theme=light&font=Inter&ext=heatmap)](https://leetcode.com/u/subramanya-veeregowda/)
 
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/subramanya-veeregowda?theme=light&font=Inter&ext=heatmap)
-
----
 ---
 
 ## **Technical Skills**
