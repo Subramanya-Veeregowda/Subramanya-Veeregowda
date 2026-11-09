@@ -10,8 +10,6 @@ My experience spans application support, backend development, full-stack applica
 
 ## **GitHub Statistics**
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Subramanya-Veeregowda&show_icons=true&hide_border=true&theme=default&include_all_commits=true)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Subramanya-Veeregowda&theme=default&hide_border=true)](https://git.io/streak-stats)
 
 ---
