@@ -7,6 +7,12 @@ I am a software developer interested in building scalable applications, backend 
 My experience spans application support, backend development, full-stack applications, and data engineering.
 
 ---
+![GitHub Stats](https://ghstats.dev/api/card?username=subramanya-veeregowda&theme=default&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=subramanya-veeregowda&theme=default&hide_border=true)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/subbuveere?theme=light&font=Inter&ext=activity)](https://leetcode.com/subbuveere/)
+---
 
 ## **Technical Skills**
 
