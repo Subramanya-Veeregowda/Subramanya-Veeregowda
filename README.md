@@ -1,5 +1,4 @@
-### 👋 Hello, I'm Subramanya Veeregowda
-# Subramanya Veeregowda
+## 👋 Hello, I'm Subramanya Veeregowda
 
 **Software Developer | Java & Spring Boot | Data Engineering Enthusiast**
 
